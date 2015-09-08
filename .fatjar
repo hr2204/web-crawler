@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 30 18:41:17 PDT 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\workspace\\lunch\\Assignment\\Assignment.jar
+manifest.mergeall=true
+manifest.mainclass=assignment.WebCrawler
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
